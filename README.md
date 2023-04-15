@@ -29,6 +29,7 @@ The following Power BI Features were incorporated:
 
 ## Visualization
 The Report Comprises of 1 Page.
+![](Road%20Accident%20Report.PNG)
 
 ## Some insights from the Analysis
 - Birmingham had the most road accident cases.
@@ -38,4 +39,6 @@ The Report Comprises of 1 Page.
 - Darkness was a contributing factor but not a major contributing factor as more than 50% of road accidents occurred during the day.
 - Overall Road Accidents has decreased in comparison to the previous year(2021,2022).
 - Regular Cars had the most casualties by vehicle type.
+
+## You can view a live version of the report [here](https://app.powerbi.com/view?r=eyJrIjoiODM2NGU1ZDItZDQ5Ny00YTg0LTk0ZGYtMGJhODBlYWY2ZDlmIiwidCI6Ijk5ZGRhNWRkLTYzNDYtNDc3OC04OTVmLWNkNGNiNjBhNDQxNiJ9)
 
